@@ -1,5 +1,5 @@
 # Code your prompts here!
-
+guest_name="Kaitlin"
 
 # Try starting out with puts'ing a string.
 puts "Dear #{guest_name},
