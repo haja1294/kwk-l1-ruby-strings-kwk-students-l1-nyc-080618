@@ -1,9 +1,5 @@
 # Code your prompts here!
-* guest_name
-* party_name 
-* date
-* time
-* host_name
+
 
 # Try starting out with puts'ing a string.
 puts "Dear #{guest_name},
